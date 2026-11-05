@@ -1,2 +1,2 @@
 # module_3_knowledge_check
-knowledge check for module 3, his is used to assess if i have a clear undestanding of the module 3 of predictive AI/ML.
+knowledge check for module 3: This repository contains the knowledge check for Module 3 of the Predictive AI/ML training course. It evaluates core competencies in advanced subsea engineering data analytics, focusing on the environmental design conditions of deepwater assets in the Gulf of Guinea. Key topics covered include cyclical feature engineering for raw metocean datasets, extreme value modeling using GEV/GPD statistics, and mapping environmental wave energy spectra dynamics to pipeline structural fatigue.
